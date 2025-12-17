@@ -28,7 +28,7 @@ A mandatory section, telling what the standard is about, in longer words than th
 Whatever is needed for the standard.
 
 ### License
-A mandatory section, containing the BSPL license, defined in [BOSNIA-A-0003](BOSNIA-A-0003.md)
+A mandatory section, containing the BSPL license, defined in [BOSNIA-A-0003](BOSNIA-A-0003.md).
 
 ## Publishing
 Put the standard in the folder of the appropriate standard category in [the official BOSNIA repository](../../..) as an .md file. The official BOSNIA repository is defined as any Git repository that declares itself as such. Add the standard to the list in the readme file of the repository with a link.
