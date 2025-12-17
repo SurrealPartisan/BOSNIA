@@ -1,0 +1,64 @@
+# BOSNIA A-0003: The better standard public license (BSPL)
+
+## Introduction
+The better standard public license is the lisence used by BOSNIA to license its standards. The license itself is a standard, as defined in this document, and licensed with itself. Anyone is allowed to use the license for whatever, but considering it uses the word "standard" for the thing that is licensed, and considering it defines all rights in regards BOSNIA, it would be rather weird to use it for anything else than a BOSNIA standard. But whatever, you are allowed to be weird. It is even encouraged.
+
+## License text
+```
+This standard (or document or repository or whatever, let's call it a standard in any case) is licensed with
+The better standard public license (BSPL). The license gives you the following rights:
+
+1. Using:
+You are free to use the standard, i.e., follow it. In fact, you may be required to do so. Required by whom?
+Who knows! But better safe than sorry. So go ahead, use the standard. However, the standard is meant for
+improvement of things. Usage against this purpose is not recommended. Better is better.
+
+2. Copying and distributing:
+You know, whatever. Spread it any way you want. Selling it for money would be a jerk move, but whatever,
+being a jerk is not illegal, and in the official opinion of BOSNIA (Better Organization of Standards, Norms,
+Instructions, and Alternatives), it shouldn't be, either. Sometimes you have to be a jerk.
+
+3. Editing:
+The standard may be edited by any self-appointed member of BOSNIA. In principle, the proper way to do that
+and to appoint yourself as a member are also defined in the BOSNIA standards. However, you can always change
+the standards that tell you how to change the standards, so practically you can do whatever.
+
+4. Suing and complaining:
+You are not allowed to sue the creators of the standard. You are, however, allowed to complain, but we don't
+promise to listen to you.
+
+---
+
+The BSPL license text is also licensed with BSPL. It's recursive!
+
+The official BOSNIA repository containing the standards is at https://github.com/SurrealPartisan/BOSNIA
+```
+
+## License (of this standard)
+This standard (or document or repository or whatever, let's call it a standard in any case) is licensed with
+The better standard public license (BSPL). The license gives you the following rights:
+
+1. Using:
+You are free to use the standard, i.e., follow it. In fact, you may be required to do so. Required by whom?
+Who knows! But better safe than sorry. So go ahead, use the standard. However, the standard is meant for
+improvement of things. Usage against this purpose is not recommended. Better is better.
+
+2. Copying and distributing:
+You know, whatever. Spread it any way you want. Selling it for money would be a jerk move, but whatever,
+being a jerk is not illegal, and in the official opinion of BOSNIA (Better Organization of Standards, Norms,
+Instructions, and Alternatives), it shouldn't be, either. Sometimes you have to be a jerk.
+
+3. Editing:
+The standard may be edited by any self-appointed member of BOSNIA. In principle, the proper way to do that
+and to appoint yourself as a member are also defined in the BOSNIA standards. However, you can always change
+the standards that tell you how to change the standards, so practically you can do whatever.
+
+4. Suing and complaining:
+You are not allowed to sue the creators of the standard. You are, however, allowed to complain, but we don't
+promise to listen to you.
+
+---
+
+The BSPL license text is also licensed with BSPL. It's recursive!
+
+The official BOSNIA repository containing the standards is at https://github.com/SurrealPartisan/BOSNIA
