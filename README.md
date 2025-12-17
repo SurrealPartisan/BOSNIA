@@ -10,6 +10,7 @@ This is the official repository of BOSNIA, as defined in the standards in this r
 * BOSNIA-A-0001: The defining procedures and structures of BOSNIA standards
 * BOSNIA-A-0002: The organizational structure and membership of BOSNIA
 * [BOSNIA-A-0003: The better standard public license (BSPL)](Standards/BOSNIA-A/BOSNIA-A-0003.md)
+* BOSNIA-A-0004: The name and logo of BOSNIA
 ### BOSNIA-B - Standards regarding the state of Bosnia and Herzegovina and its relation to BOSNIA
 * BOSNIA-B-0001: Bosnia and Herzegovina
 * BOSNIA-B-0002: The relationship of BOSNIA and Bosnia and Herzegovina
