@@ -7,7 +7,7 @@ This is the official repository of BOSNIA, as defined in the standards in this r
 
 ## List of standards
 ### BOSNIA-A - Standards defining BOSNIA and its standards and the procedures and rules related to them. So meta!
-* BOSNIA-A-0001: The defining procedures and structures of BOSNIA standards
+* [BOSNIA-A-0001: The defining procedures and structures of BOSNIA standards](Standards/BOSNIA-A/BOSNIA-A-0001.md)
 * BOSNIA-A-0002: The organizational structure and membership of BOSNIA
 * [BOSNIA-A-0003: The better standard public license (BSPL)](Standards/BOSNIA-A/BOSNIA-A-0003.md)
 * BOSNIA-A-0004: The name and logo of BOSNIA
